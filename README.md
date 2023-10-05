@@ -1,9 +1,6 @@
 # How do you install Edgesploit? 📜
 1. Install the script managing extension TamperMonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-2. Right click the extension icon and click "Options"
-3. Click the [+] button
-4. Copy and paste the code found on #scripts into your new script
-5. Click File and Save
+2. Install the Edgesploit script here: https://github.com/Databones/Edgespoit/raw/main/Edgesploit.user.js
 
 
 # What does Edgesploit do? 🤔
