@@ -1,4 +1,4 @@
-https://discord.gg/HQmSYGK8tV
+https://discord.gg/edgesploit
 
 ## How do you install Edgesploit? 📜
 1. Install the script managing extension [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
