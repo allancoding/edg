@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Edgesploit 1.8 [Source code]
+// @name         Edgesploit 1.8
 // @version      1.8
 // @author       Databones
 // @namespace    discord.gg/HQmSYGK8tV
