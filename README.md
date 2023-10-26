@@ -14,7 +14,6 @@ Edgesploit has...
 - **Duplicate Tabs**: Allows opening multiple tabs.
 - **Frame Advance**: Automatically clicks to the next frame.
 - **Frame Bypass**: Removes frame restrictions to freely navigate through activities.
-- **Lab Advance**: Automatically advances in Virtual Lab activities.
 - **Show Columns**: Shows every hidden question in assignments.
 - **Skip Intros**: Removes introduction screens that block your inputs.
 - **Themes:** Replaces Edgenuity's depressing background with any background you want.
