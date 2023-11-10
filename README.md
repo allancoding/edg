@@ -16,6 +16,7 @@ Edgesploit has...
 - **Frame Bypass**: Removes frame restrictions to freely navigate through activities.
 - **Show Columns**: Shows every hidden question in assignments.
 - **Skip Intros**: Removes introduction screens that block your inputs.
+- **Grade Spoofer**: Edits your grades and progress to appear perfect.
 - **Themes:** Replaces Edgenuity's depressing background with any background you want.
 
 
