@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Edgesploit 1.81
-// @version      1.8
+// @version      1.81
 // @author       Databones
 // @namespace    discord.gg/HQmSYGK8tV
 // @description  Edgenuity does not care about your user experience. We do. Spread this script to your classmates in protest of Edgenuity purposely staying as an outdated, unfulfilling platform! :)
