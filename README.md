@@ -9,6 +9,7 @@ https://discord.gg/HQmSYGK8tV
 Edgesploit has...
 - **Activity Advance**: Advances to the next activity when the current one is complete.
 - **Answer Guesser**: Selects random answers for non-graded activities.
+- **Answer Lookup**: Offers several links when you select a question.
 - **Anti Logout**: Prevents automatic logouts from inactivity.
 - **Auto Vocab**: Fills in vocabulary answers in Vocabulary activities.
 - **Duplicate Tabs**: Allows opening multiple tabs.
@@ -16,7 +17,6 @@ Edgesploit has...
 - **Frame Bypass**: Removes frame restrictions to freely navigate through activities.
 - **Show Columns**: Shows every hidden question in assignments.
 - **Skip Intros**: Removes introduction screens that block your inputs.
-- **Grade Spoofer**: Edits your grades and progress to appear perfect.
 - **Themes:** Replaces Edgenuity's depressing background with any background you want.
 
 
