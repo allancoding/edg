@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Edgesploit 1.9.2
+// @name         Edgesploit
 // @version      1.9.2
 // @author       Databones
 // @namespace    discord.gg/HQmSYGK8tV
