@@ -25,7 +25,8 @@ Try reinstalling, editing your settings, using Chrome (the browser Edgesploit ha
 
 
 ## Any keybinds?
-Shift+Z to open the menu and Shift+D to hide the icon.
+Shift+Z to open & close the menu
+Shift+D to hide & show the menu icon.
 
 
 ## Disclaimer ⚠️
