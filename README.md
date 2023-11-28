@@ -1,8 +1,13 @@
-https://discord.gg/HQmSYGK8tV
+https://discord.gg/HQmSYGK8tV 👈 Join the Edgesploit community here!
+
+
+
 
 ## How do you install Edgesploit? 📜
+Start by doing the following:
 1. Install the script managing extension [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 2. Install the Edgesploit script [here](https://github.com/Databones/Edgesploit/raw/main/Edgesploit.user.js).
+3. Log into Edgenuity and Edgesploit should automatically be injected into the site. Check for the logo on the bottom right corner.
 
 
 ## What does Edgesploit do? 🤔
@@ -21,12 +26,20 @@ Edgesploit has...
 
 
 ## I've encountered an issue with this script ❓
-Try reinstalling, editing your settings, using Chrome (the browser Edgesploit has been tested on), etc. You can receive help and report bugs on my Discord server.
+Try reinstalling, editing your settings, or using Chrome on a computer (Only tested on Chrome and doesn't support mobile.). You can report bugs, receive help, & suggest features on my [Discord server.](https://discord.gg/HQmSYGK8tV)
 
 
 ## Any keybinds?
 Shift+Z to open & close the menu
 Shift+D to hide & show the menu icon.
+
+
+## Theres are several errors in the script.
+This is due to the script being compressed, and it's completely normal. The script will run fine.
+
+
+## Duplicate tabs is not working.
+Open new activities slower as the script needs time time load onto the page.
 
 
 ## Disclaimer ⚠️
