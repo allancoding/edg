@@ -49,7 +49,7 @@ Open new activities slower as the script needs time time load onto the page.
 
 
 ## Does this script skip videos?
-Yes. But it depends on the class. Edgenuity videos are very inconsistent so sometimes it may not skip at all and you will have to watch the video, but other times, it can complete instructions in seconds. Another case of video skipping is that Frame Advance allows you to shave 8 seconds off each video.
+Yes and no. It depends on the class. Edgenuity videos are very inconsistent so sometimes it may not skip at all and you will have to watch the video, but other times, it can complete instructions in seconds. Another case of video skipping is that Frame Advance allows you to shave 8 seconds off each video.
 
 
 ## Disclaimer ⚠️
