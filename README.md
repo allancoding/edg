@@ -25,8 +25,14 @@ Edgesploit has...
 - **Themes:** Replaces Edgenuity's depressing background with any background you want.
 
 
-## I've encountered an issue with this script ❓
-Try reinstalling, editing your settings, or using Chrome on a computer (Only tested on Chrome and doesn't support mobile.). You can report bugs, receive help, & suggest features on my [Discord server.](https://discord.gg/HQmSYGK8tV)
+## The script is not working. ❓
+You can troubleshoot by doing the following:
+- Right click TamperMonkey and go to "Options", click "Settings", and set Config mode to "Advanced".
+- Check if "Include script storage" is enabled. Find it in "Utilities".
+- Update your browser to the latest version.
+- Try using different browsers. Recommend to start off using Google Chrome (the browser Edgesploit has been tested on).
+
+You can report bugs, find support, & suggest features on my [Discord server.](https://discord.gg/HQmSYGK8tV)
 
 
 ## Any keybinds?
